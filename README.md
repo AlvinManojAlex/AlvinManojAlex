@@ -6,20 +6,15 @@ Currently pursuing B.Tech in CS at Vellore Institute of Technology, Chennai.
 
 Portfolio 🙌: 
 
-My Socials:
+Connect with me:
 
+<a href="https://www.linkedin.com/in/alvin-alex-38a905232/">LinkedIn</a>
+ 
+============================================================================================
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinManojAlex&count_private=true&theme=radical&include_all_commits=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinManojAlex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlvinManojAlex&theme=algolia)](https://git.io/streak-stats)
 
-<!--
-**AlvinManojAlex/AlvinManojAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
