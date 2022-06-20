@@ -9,8 +9,8 @@ Portfolio 🙌:
 Connect with me:
 
 <a href="https://www.linkedin.com/in/alvin-alex-38a905232/">LinkedIn</a>
- 
-============================================================================================
+
+<hr>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinManojAlex&count_private=true&theme=radical&include_all_commits=true)
   
@@ -18,3 +18,4 @@ Connect with me:
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlvinManojAlex&theme=algolia)](https://git.io/streak-stats)
 
+<hr>
