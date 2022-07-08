@@ -4,7 +4,7 @@
 I'm a passionate Web developer, problem solver, AI enthusiast and an avid book reader, hailing from Kochi, Kerala, India. I love to try out new things in Tech Stacks, and enjoy collaborating with others on projects. Picking up a new book, checking out other project ideas, or simply roaming around are my favorite ways to binge my time.
 Currently pursuing B.Tech in CS at Vellore Institute of Technology, Chennai.
 
-Portfolio 🙌: 
+Portfolio 🙌: https://alvinmanojalex.github.io/Portfolio-Website/
 
 Connect with me:
 
