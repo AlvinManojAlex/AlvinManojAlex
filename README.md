@@ -6,15 +6,13 @@ Currently pursuing B.Tech in CS at Vellore Institute of Technology, Chennai.
 
 Portfolio 🙌: https://alvinmanojalex.github.io/Portfolio-Website/
 
-Connect with me:
-
-<a href="https://www.linkedin.com/in/alvin-alex-38a905232/">LinkedIn</a>
+Connect with me on <a href="https://www.linkedin.com/in/alvin-alex-38a905232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <hr>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinManojAlex&count_private=true&theme=radical&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinManojAlex&count_private=true&theme=algolia&include_all_commits=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinManojAlex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinManojAlex&layout=compact&theme=algolia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlvinManojAlex&theme=algolia)](https://git.io/streak-stats)
 
