@@ -12,8 +12,6 @@ Connect with me on <a href="https://www.linkedin.com/in/alvin-alex-38a905232/"><
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinManojAlex&count_private=true&theme=algolia&include_all_commits=true)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinManojAlex&layout=compact&theme=algolia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlvinManojAlex&theme=algolia)](https://git.io/streak-stats)
 
 <hr>
