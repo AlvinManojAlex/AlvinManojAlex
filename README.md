@@ -1,5 +1,7 @@
 <h1 align='center'>Hi there 👋 </h1>
 
+<img align='center' src='/img/Github_banner.gif'>
+
 - I'm currently working on personal projects, which can be found on my GitHub [here](https://github.com/AlvinManojAlex?tab=repositories).
 
 - I'm currently learning and upskilling myself in **Software Engineering, AI and Application Security**.
