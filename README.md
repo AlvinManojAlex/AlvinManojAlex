@@ -71,7 +71,7 @@
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvinManojAlex&count_private=true&theme=algolia&include_all_commits=true)
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlvinManojAlex&theme=algolia)](https://git.io/streak-stats)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AlvinManojAlex&theme=algolia)
 
 <hr>
