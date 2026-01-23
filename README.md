@@ -1,14 +1,16 @@
 <h1 align='center'>Hi there 👋 </h1>
 
-<img align='center' src='/img/Github_banner.gif'>
+![Github Banner](/img/github_banner.png)
 
-- I'm currently working on personal projects, which can be found on my GitHub [here](https://github.com/AlvinManojAlex?tab=repositories).
+- I'm working on personal projects, which can be found on my GitHub [here](https://github.com/AlvinManojAlex?tab=repositories).
 
-- I'm currently learning and upskilling myself in **Software Engineering, AI and Application Security**.
+- I'm learning and upskilling myself in **Software Engineering, AI and Application Security**.
 
 - How to reach me **alvinmanoj02@gmail.com**.
 
-- My experiences can be found in my [resume](https://drive.google.com/file/d/1_kFy5T366OiCCqME5WqkgBQEWXTh8Qcc/view?usp=sharing).
+- My experiences can be found in my [resume](https://drive.google.com/file/d/1XVhbFnnPJPZm1luNFYxYmbmpzQQ8ABFe/view?usp=sharing).
+
+- Check my medium blog out! [Medium.com](https://medium.com/@alvinmanoj02)
 
 <hr>
 
@@ -45,11 +47,6 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<h4>Version Control</h4>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h4>Competitive Programming</h4>
 
