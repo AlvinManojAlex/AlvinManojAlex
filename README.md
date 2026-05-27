@@ -8,7 +8,7 @@
 
 - How to reach me **alvinmanoj02@gmail.com**.
 
-- My experiences can be found in my [resume](https://drive.google.com/file/d/1XVhbFnnPJPZm1luNFYxYmbmpzQQ8ABFe/view?usp=sharing).
+- My experiences can be found on my [personal website](https://alvinmanojalex.github.io/).
 
 - Check my medium blog out! [Medium.com](https://medium.com/@alvinmanoj02)
 
